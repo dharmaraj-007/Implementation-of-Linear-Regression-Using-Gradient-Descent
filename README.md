@@ -1,30 +1,22 @@
 # EX-03 Implementation of Linear Regression using Gradient Descent
-<table>
-<tr>
-<td width=85% align=left>
-    
-### Aim:
+
+## Aim:
 To write a program to predict the profit of a city using the linear regression model with gradient descent.
-</td> 
-<td valign=top>
 
-**DATE:**
-</td>
-</tr> 
-</table>
-
-### Equipments Required:
+## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
-### Algorithm:
-1. Import pandas, numpy and mathplotlib.pyplot.
-2. Trace the best fit line and calculate the cost function.
-3. Calculate the gradient descent and plot the graph for it.
-4. Predict the profit for two population sizes.
 
+## Algorithm
+1.Start the program.
+2.Import numpy as np.
+3.Give the header to the data.
+4.Find the profit of population.
+5.Plot the required graph for both for Gradient Descent Graph and Prediction Graph.
+6.End the program.
 
 ### Program:
-```Python
+```
 
 Developed By: Dharmaraj S
 Register No: 212222240025
@@ -69,6 +61,8 @@ print(f"Predicted value: {pre}")
 <img height=10% width=48% src="https://github.com/ROHITJAIND/EX-03-Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118707073/9b3626af-2148-45d1-a822-a4019da4a3f5">&emsp;<img height=10% width=28% src="https://github.com/ROHITJAIND/EX-03-Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118707073/a26092ce-9f5e-47b7-97e2-636a1ffe9dc7"><br><br>
 **Predicted Value**<br>
 <img height=5% width=49% src="https://github.com/ROHITJAIND/EX-03-Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118707073/5f807fd5-7777-40aa-9bb4-ac2508e9026e">
+
+
 
 
 ### Result:
